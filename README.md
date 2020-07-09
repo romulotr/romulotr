@@ -10,8 +10,3 @@ Sharing some info about stuffs I build in my earlier years and know.
 - 📫  Contact me: [twitter.com/troian](https://twitter.com/troian)
 
 
-
-# Project / Expertise Timeline:
-
-# 1999 - Linux & Internet Passionate
-
